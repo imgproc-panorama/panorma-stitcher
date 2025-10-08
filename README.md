@@ -2,9 +2,9 @@
 
 ## Contributors
 
-- [Mae](https://github.com/cadrianmae)
-- [Noura](https://github.com/nrn5)
-- [Seán]()
+- [Mae](https://github.com/cadrianmae), [Blog]()
+- [Noura](https://github.com/nrn5), [Blog](https://c22388271.wordpress.com/)
+- [Seán](), [Blog]()
 
 ## Prerequisites
 
