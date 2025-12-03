@@ -10,7 +10,7 @@ Will explore how to detect and match keypoints between images, estimate homograp
 
 - [Mae](https://github.com/cadrianmae), [Blog](https://imc21348423.wordpress.com/)
 - [Noura](https://github.com/nrn5), [Blog](https://c22388271.wordpress.com/)
-- [Seán](), [Blog]()
+- [Seán](https://github.com/BeroCollege), [Blog](https://c22421292-tbyre.wordpress.com/)
 
 ## Prerequisites
 
