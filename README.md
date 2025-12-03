@@ -4,7 +4,7 @@
 
 - [Mae](https://github.com/cadrianmae)
 - [Noura](https://github.com/nrn5)
-- [Seán]()
+- [Seán](https://c22421292-tbyre.wordpress.com/)
 
 ## Prerequisites
 
